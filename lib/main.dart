@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-//Comment
+//Comment has been updated
 void main () {
   runApp(
       MaterialApp(
